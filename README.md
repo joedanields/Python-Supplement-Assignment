@@ -29,7 +29,7 @@ This repository contains **100 Python debugging problems** designed to sharpen y
 
 ### Step 2: Clone Your Fork
 ```bash
-git clone https://github.com/YOUR-USERNAME/Python-Supplement-Assignment.git
+git clone https://github.com/joedanields/Python-Supplement-Assignment.git
 cd Python-Supplement-Assignment
 ```
 
