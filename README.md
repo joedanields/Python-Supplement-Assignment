@@ -33,13 +33,7 @@ git clone https://github.com/YOUR-USERNAME/Python-Supplement-Assignment.git
 cd Python-Supplement-Assignment
 ```
 
-### Step 3: Create a New Branch
-```bash
-git checkout -b your-name-solutions
-```
-Replace `your-name` with your actual name (e.g., `john-doe-solutions`)
-
-### Step 4: Solve the Problems
+### Step 3: Solve the Problems
 1. Open each `problem_XX.py` file
 2. Read the code carefully
 3. **Find and fix the error**
@@ -48,7 +42,7 @@ Replace `your-name` with your actual name (e.g., `john-doe-solutions`)
 
 **Important:** Only fix the error! Don't rewrite the entire code.
 
-### Step 5: Test Your Solutions
+### Step 4: Test Your Solutions
 Run each file to verify it works:
 ```bash
 python problem_01.py
@@ -56,7 +50,7 @@ python problem_02.py
 # ... and so on
 ```
 
-### Step 6: Commit Your Changes
+### Step 5: Commit Your Changes
 After solving problems, commit your changes:
 ```bash
 git add .
@@ -69,23 +63,22 @@ git add problem_01.py problem_02.py problem_03.py
 git commit -m "Solved problems 1-3"
 ```
 
-### Step 7: Push to Your Fork
+### Step 6: Push to Your Fork
 ```bash
-git push origin your-name-solutions
+git push
 ```
 
-### Step 8: Create a Pull Request
+### Step 7: Create a Pull Request
 1. Go to your forked repository on GitHub
 2. Click **Pull Request** → **New Pull Request**
 3. Set the base repository to the original repo
-4. Set the compare branch to your solutions branch
-5. Click **Create Pull Request**
-6. Add a title: "Solutions by [Your Name]"
-7. In the description, mention:
+4. Click **Create Pull Request**
+5. Add a title: "Solutions by [Your Name]"
+6. In the description, mention:
    - How many problems you solved
    - Any challenges you faced
    - Estimated time taken
-8. Submit the pull request
+7. Submit the pull request
 
 ## Submission Guidelines
 
